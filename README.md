@@ -27,4 +27,4 @@ The two constants ```NUMBER_OF_EXPERIMENTS``` and ```NUMBER_OF_TEST_POINTS``` ar
 
 The last two cells are used for plotting the single experiment (PLA for a set of N points)
 for N = 10 and N = 100. Two files N=10.png and N=100.png, in my opinion, illustrate well how accurate PLA
-is for these cases.
+is for these cases (how close to each other are f and g)
