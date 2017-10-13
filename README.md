@@ -1,4 +1,4 @@
-# The Perceptor Learning Algorithm
+# The Perceptoron Learning Algorithm
 
 Implementation in python, using Jupyter Notebook.
 
